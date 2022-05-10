@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Guimarães Rosa</h1>
 
-- 🔥  Júnior Web Developer ;
+- 🔥  Junior Web Developer ;
 
 - 🔭 I’m currently studying at Rocketseat ;
 
