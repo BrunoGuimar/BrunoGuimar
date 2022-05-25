@@ -1,10 +1,10 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Guimarães Rosa</h1>
 
-- 🔥  Junior Web Developer ;
+- 🔥  Web Developer ;
 
 - 🔭 I’m currently studying at Rocketseat ;
 
-- 🌱 I’m currently learning: HTML, CSS, JAVASCRIPT, SQL and NODEJS ;
+- 🌱 I’m currently learning: HTML, CSS, JAVASCRIPT, SQL, NODEJS, REACT and TypeScript ;
 
 - 📫 How to reach me: brunoguima13@gmail.com .
 
