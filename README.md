@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying at Rocketseat ;
 
-- 🌱 skills: Node.js, JavaScript, Python, API-Rest, MySQL, HTML, CSS, SQL, React and TypeScript;
+- 🌱 Skills: Node.js, JavaScript, Python, API-Rest, MySQL, HTML, CSS, SQL, React and TypeScript;
 
 - 📫 How to reach me: brunoguima13@gmail.com .
 
