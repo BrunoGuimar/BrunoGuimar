@@ -2,7 +2,7 @@
 
 - 🔥  Web Developer ;
 
-- 🔭 I’m currently studying at Rocketseat ;
+- 🔭 I’m currently studying ;
 
 - 🌱 Skills: Node.js, JavaScript, Python, API-Rest, MySQL, HTML, CSS, SQL, React and TypeScript;
 
