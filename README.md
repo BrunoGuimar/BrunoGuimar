@@ -1,18 +1,21 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="36px">, I'm Bruno Guimarães Rosa</h1>
 
-- 🔥  Web Developer ;
+-   Web Developer ;
 
-- 🔭 I’m currently studying ;
+-  I’m currently studying ;
 
-- 🌱 Skills: Node.js, JavaScript, Python, API-Rest, MySQL, HTML, CSS, SQL, React and TypeScript;
+-  Hard Skills: Java, Spring Boot, DAO, MySQL, API-Rest;
 
-- 📫 How to reach me: brunoguima13@gmail.com .
+-  Soft Skills: Node.js, JavaScript, Python, HTML, CSS, SQL, React and TypeScript;
+
+-  How to reach me: brunoguima13@gmail.com .
 
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
