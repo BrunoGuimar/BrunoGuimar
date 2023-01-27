@@ -1,14 +1,14 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="36px">, I'm Bruno Guimarães Rosa</h1>
 
-- 🎲 Web Developer ;
+- 💻 Web Developer ;
 
--  I’m currently studying ;
+- 📚 I’m currently studying ;
 
--  Hard Skills: Java, Spring Boot, DAO, MySQL, API-Rest;
+- 📈 Hard Skills: Java, Spring Boot, DAO, MySQL, API-Rest;
 
--  Soft Skills: Node.js, JavaScript, Python, HTML, CSS, SQL, React and TypeScript;
+- 📉 Soft Skills: Node.js, JavaScript, Python, HTML, CSS, SQL, React and TypeScript;
 
--  How to reach me: brunoguima13@gmail.com .
+- 📩 How to reach me: brunoguima13@gmail.com .
 
 
 <br><br>
