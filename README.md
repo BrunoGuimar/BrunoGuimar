@@ -6,7 +6,7 @@
 
 - 📈 Hard Skills: Java, Spring Boot, DAO, MySQL, API-Rest;
 
-- 📉 Soft Skills: Node.js, JavaScript, Python, HTML, CSS, SQL, React and TypeScript;
+- 📉 Soft Skills: Comunicação, Resolução de Problemas, Trabalho em Equipe, Pensamento Crítico;
 
 - 📩 How to reach me: brunoguima13@gmail.com .
 
