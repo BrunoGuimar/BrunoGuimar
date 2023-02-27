@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="36px">, I'm Bruno Guimarães Rosa</h1>
+<h1 align="left">Hi <img src="https://tenor.com/pt-BR/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626" width="36px">, I'm Bruno Guimarães Rosa</h1>
 
 - 💻 Web Developer ;
 
