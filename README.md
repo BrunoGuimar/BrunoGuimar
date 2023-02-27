@@ -4,7 +4,7 @@
 
 - 📚 I’m currently studying ;
 
-- 📈 Hard Skills: Java, Spring Boot, Testes Unitários, MySQL, API-Rest;
+- 📈 Hard Skills: Java, Spring Boot, Testes Unitários, MySQL, DevOps;
 
 - 📉 Soft Skills: Comunicação, Resolução de Problemas, Trabalho em Equipe, Pensamento Crítico;
 
