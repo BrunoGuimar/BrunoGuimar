@@ -1,14 +1,14 @@
 <h1 align="left">Hi <img src="waving-hand-joypixels.gif" width="36px">, I'm Bruno Guimarães Rosa</h1>
 
-- 💻 Web Developer ;
+- 💻 Full Stack Java Developer;
 
-- 📚 I’m currently studying ;
+- 📚 I’m currently studying;
 
-- 📈 Hard Skills: Java, Spring Boot, Testes Unitários, MySQL, DevOps;
+- 📈 Hard Skills: Java 8+, Spring Boot, Angular, TDD, MySQL, MongoDB, PostgreSQL, Docker, AWS, SCRUM, Kanban;
 
-- 📉 Soft Skills: Comunicação, Resolução de Problemas, Trabalho em Equipe, Pensamento Crítico;
+- 📉 Soft Skills: Communication, Problem Solving, Teamwork, Critical Thinking;
 
-- 📩 How to reach me: brunoguima13@gmail.com .
+- 📩 How to reach me: brunoguima13@gmail.com.
 
 
 <br><br>
