@@ -8,7 +8,7 @@
 
 - 📘 Soft Skills: Communication, Problem Solving, Teamwork, Critical Thinking;
 
-- 📩 How to reach me: brunoguima13@gmail.com / linkedin.com/in/brunoguimar / +55 (48) 9 2002-7138
+- 📩 How to reach me: brunoguima13@gmail.com / +55 (48) 9 2002-7138
 
 
 <br><br>
